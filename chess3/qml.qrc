@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>board.qml</file>
-        <file>image/wallpaper.png</file>
-        <file>image/board.png</file>
-    </qresource>
-</RCC>
