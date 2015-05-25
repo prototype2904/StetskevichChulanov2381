@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>image/board.png</file>
+        <file>image/wallpaper.png</file>
+        <file>image/figure_black/bishop.png</file>
+        <file>image/figure_black/king.png</file>
+        <file>image/figure_black/knight.png</file>
+        <file>image/figure_black/pawn.png</file>
+        <file>image/figure_black/queen.png</file>
+        <file>image/figure_black/rook.png</file>
+        <file>image/figure_blue/bishop.png</file>
+        <file>image/figure_blue/king.png</file>
+        <file>image/figure_blue/knight.png</file>
+        <file>image/figure_blue/pawn.png</file>
+        <file>image/figure_blue/queen.png</file>
+        <file>image/figure_blue/rook.png</file>
+        <file>image/figure_white/bishop.png</file>
+        <file>image/figure_white/king.png</file>
+        <file>image/figure_white/knight.png</file>
+        <file>image/figure_white/pawn.png</file>
+        <file>image/figure_white/queen.png</file>
+        <file>image/figure_white/rook.png</file>
+        <file>system/coord1200700120120600520.txt</file>
+        <file>system/squares.txt</file>
+    </qresource>
+</RCC>
