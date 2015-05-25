@@ -1,0 +1,10 @@
+Package: chess3
+Version: 1.0-1
+Provides: chess3
+Maintainer: Stetskevich Roman/ Chulanov Andrey
+Architecture: all
+Section: devel
+Description: Chess for three people
+Depends: qtdeclarative5-dev, qtdeclarative5-dev-tools, libqt5declarative5, qtquick1-5-dev, qtscript5-dev, libqt5svg5-dev, qttools5-dev-tools, qttools5-dev, libqt5opengl5-dev, qtquick1-qml-plugins
+Build-Depends: g++, make, qt5-qmake
+Priority: optional
